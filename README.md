@@ -49,15 +49,15 @@ The objective of this project is to explore agricultural trends, crop production
 
 ## Dashboard
 
-![KPI](KPI.png)
+![KPI](kpi.png)
 
-![Heatmap](Heatmap.png)
+![Heatmap](heatmap.png)
 
-![Top 10](Top%2010.png)
+![Top 10 States](top10.png)
 
-![Avg](Avg.png)
+![Production vs Yield](production_yield.png)
 
-![prod and yield(prod%and%yield.png)
+![Average Yield](average_yield.png)
 
 
 
