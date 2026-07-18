@@ -141,15 +141,6 @@ streamlit run app.py
 - Yield distribution differs among crops.
 - Interactive filtering enables quick comparative analysis.
 
----
-
-# 🔮 Future Improvements
-
-- Machine Learning-based Yield Prediction
-- Weather Data Integration
-- District-level Analysis
-- Live Agricultural Data Integration
-- Export Dashboard Reports
 
 ---
 
