@@ -11,6 +11,12 @@ An interactive **Streamlit Dashboard** built using **Python, Pandas, Plotly, and
 
 ---
 
+## 🚀 Live Demo
+
+**🌐 Streamlit App:** [https://your-app-name.streamlit.app](https://crop-wise-area-appuction-yield-analysis-gjsn2tsmppbnk9yrsymdu8.streamlit.app/)
+
+
+
 ## 📊 Dashboard Preview
 
 ### 📌 KPI Dashboard
