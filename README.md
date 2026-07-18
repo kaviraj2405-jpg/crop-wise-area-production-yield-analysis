@@ -19,20 +19,20 @@ An interactive **Streamlit Dashboard** built using **Python, Pandas, Plotly, and
 
 ## 📊 Dashboard Preview
 
-### 📌 KPI Dashboard
-![KPI](KPI.png)
+### KPI Dashboard
+![KPI](dashboard/KPI.png)
 
-### 🌾 Top 10 Crop Producing States
-![Top 10 States](Top%2010.png)
+### Average Analysis
+![Average](dashboard/Avg.png)
 
-### 📈 Production vs Yield Analysis
-![Production vs Yield](prod%20and%20yield.png)
+### Production and Yield
+![Production and Yield](dashboard/prod%20and%20yield.png)
 
-### 🔥 Correlation Heatmap
-![Heatmap](Heatmap.png)
+### Top 10 Analysis
+![Top 10](dashboard/Top%2010.png)
 
-### 🌱 Average Yield Analysis
-![Average Yield](Avg.png)
+### Heatmap
+![Heatmap](dashboard/Heatmap.png)
 
 ---
 
