@@ -74,8 +74,11 @@ An interactive **Streamlit Dashboard** built using **Python, Pandas, Plotly, and
 
 ---
 
-# 📂 Project Structure
 
+
+## 📁 Project Structure
+
+```text
 Crop-Analysis/
 │
 ├── 📁 dashboard/
@@ -88,12 +91,13 @@ Crop-Analysis/
 ├── 📁 reports/
 │   └── Crop_Analysis_Report.pdf
 │
-├── Crop_Analysis.ipynb
-├── crop-wise-area-production-yield.csv
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+├── 📄 Crop_Analysis.ipynb
+├── 📄 crop-wise-area-production-yield.csv
+├── 📄 app.py
+├── 📄 requirements.txt
+├── 📄 README.md
+└── 📄 .gitignore
+```
 ```
 
 ---
