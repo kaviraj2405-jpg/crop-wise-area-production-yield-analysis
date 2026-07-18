@@ -76,21 +76,24 @@ An interactive **Streamlit Dashboard** built using **Python, Pandas, Plotly, and
 
 # 📂 Project Structure
 
-```text
-crop-wise-area-production-yield-analysis/
+Crop-Analysis/
 │
-├── app.py
+├── 📁 dashboard/
+│   ├── KPI.png
+│   ├── Avg.png
+│   ├── prod_and_yield.png
+│   ├── Top10.png
+│   └── Heatmap.png
+│
+├── 📁 reports/
+│   └── Crop_Analysis_Report.pdf
+│
 ├── Crop_Analysis.ipynb
 ├── crop-wise-area-production-yield.csv
+├── app.py
 ├── requirements.txt
 ├── README.md
-├── KPI.png
-├── Heatmap.png
-├── Top 10.png
-├── Avg.png
-├── prod and yield.png
-├── dashboard/
-└── reports/
+└── .gitignore
 ```
 
 ---
